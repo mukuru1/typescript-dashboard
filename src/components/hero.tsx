@@ -7,14 +7,14 @@ export default function Hero() {
         </p>
 
         <h1 className="text-5xl font-extrabold leading-tight mb-6">
-          Learn English <br />
-          <span className="text-amber-500">Online</span> with Real <br />
+          Learn English <br/>
+          <span className="text-orange-500">Online</span> with Real <br/>
           Teachers
         </h1>
 
         <p className="text-gray-600 leading-relaxed mb-8">
-          Improve your speaking, grammar, and confidence with<br />
-          interactive lessons, live sessions, and a learning method<br />
+          Improve your speaking, grammar, and confidence with<br/>
+          interactive lessons, live sessions, and a learning method<br/>
           based on real-life situations
         </p>
 
