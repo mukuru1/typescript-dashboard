@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header className="flex items-center justify-between px-20 py-6 border-b">
-      <a className="font-bold text-lg">ABA English</a>
+      <a className="font-bold text-lg text-green-600">ABA English</a>
 
       <ul className="flex gap-7 text-sm">
         <li>Courses</li>
