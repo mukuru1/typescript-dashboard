@@ -30,9 +30,9 @@ export default function Hero() {
 
         <div className="flex items-center gap-3 text-sm font-semibold">
           <div className="flex -space-x-2">
-            <img src="/images/student1.jpg" className="w-8 h-8 rounded-full border-2 border-white" />
-            <img src="/images/student2.jpg" className="w-8 h-8 rounded-full border-2 border-white" />
-            <img src="/images/student3.jpg" className="w-8 h-8 rounded-full border-2 border-white" />
+            <img src="/images/1.jpg" className="w-8 h-8 rounded-full border-2 border-white" />
+            <img src="/images/8.jpg" className="w-8 h-8 rounded-full border-2 border-white" />
+            <img src="/images/3.jpg" className="w-8 h-8 rounded-full border-2 border-white" />
           </div>
           <span>30M+ Students world wide</span>
         </div>
