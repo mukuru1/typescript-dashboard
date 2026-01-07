@@ -16,8 +16,9 @@ export default function Cards(): TSX.Element {
       </p>
 
       <div className="grid grid-cols-4 gap-5 text-left">
+
         <div className="bg-green-50 rounded-2xl p-4 border-black">
-          <img src="6.jpg" alt="demo" className="rounded-lg mb-4" />
+          <img src="/images/6.jpg" alt="demo" className="rounded-lg mb-4" />
           <h3 className="font-semibold mb-1">Learn from Real Situations</h3>
 
           <p className="text-sm text-gray-600 mb-3">
@@ -30,7 +31,7 @@ export default function Cards(): TSX.Element {
         </div>
 
         <div className="bg-green-50 rounded-2xl p-4 border-black">
-          <img src="6.jpg" alt="demo" className="rounded-lg mb-4" />
+          <img src="/images/5.webp" alt="demo" className="rounded-lg mb-4" />
           <h3 className="font-semibold mb-1">Learn from Real Situations</h3>
 
           <p className="text-sm text-gray-600 mb-3">
@@ -43,7 +44,7 @@ export default function Cards(): TSX.Element {
         </div>
 
         <div className="bg-green-50 rounded-2xl p-4 border-black">
-          <img src="6.jpg" alt="demo" className="rounded-lg mb-4" />
+          <img src="/images/2.png" alt="demo" className="rounded-lg mb-4" />
           <h3 className="font-semibold mb-1">Learn from Real Situations</h3>
 
           <p className="text-sm text-gray-600 mb-3">
@@ -56,7 +57,7 @@ export default function Cards(): TSX.Element {
         </div>
 
         <div className="bg-green-50 rounded-2xl p-4 border-black">
-          <img src="6.jpg" alt="demo" className="rounded-lg mb-4" />
+          <img src="/images/7.jpg" alt="demo" className="rounded-lg mb-4" />
           <h3 className="font-semibold mb-1">Learn from Real Situations</h3>
 
           <p className="text-sm text-gray-600 mb-3">
