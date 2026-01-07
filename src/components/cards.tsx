@@ -1,7 +1,7 @@
 export default function cards() {
   return (
     <section className="bg-gray-50 px-20 py-20 text-center">
-      <p className="text-sm text-gray-500 mb-3">How it Works</p>
+      <p className="text-sm text-green-500 mb-3">How it Works</p>
 
       <h2 className="text-4xl font-extrabold mb-4">
         A Simple and Smart Way <br /> to Learn English
