@@ -1,6 +1,7 @@
 import Header from "./components/header";
 import Hero from "./components/hero";
 import HowItWorks from "./components/cards";
+import Expense from "./components/newsection/expense";
 
 export default function App() {
   return (
@@ -8,6 +9,7 @@ export default function App() {
       <Header />
       <Hero />
       <HowItWorks />
+      <Expense />
     </>
   );
 }
